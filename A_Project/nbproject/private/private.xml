@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/signup.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/showProfileController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/model/Blog.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/signupController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/deleteBlogController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/editBlogController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/login.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/dal/BlogDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/dal/FollowingDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/edit.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/loginController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/model/Comment.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/followController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/unfollowController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/showController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/context/DBContext.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/main.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/RequiredAuthentication.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/following.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/model/Following.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/dal/LikeDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/deleteFollowingController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/logoutController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/dal/UserDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/signupFailed.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/model/Like.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/profile.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/loginFailed.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/show.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/dal/CommentDAO.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/searchController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/myprofile.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/mainController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/search.jsp</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/likeController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/profileController.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/index.html</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/model/User.java</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/Admin/Documents/NetBeansProjects/A_Project/src/java/controller/unLikeController.java</file>
+        </group>
+    </open-files>
+</project-private>
